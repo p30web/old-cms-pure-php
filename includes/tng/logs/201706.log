@@ -1,0 +1,136 @@
+=== BEGIN MESSAGE ===
+Client IP:
+  ::1
+
+Host:
+  localhost
+
+Requested URI:
+  http://localhost/iranalpinetravel/news_view.php?id=39&title=Financial%20Planning
+
+Date:
+  2017-06-06 08:53:31
+
+Error:
+  SQL error: Column 'name' cannot be null.
+
+Developer Details:
+  SQL error: INSERT INTO newscomment (title, news_id, name, email, matn, date, ip, `read`, active) values ('test', 39, null, null, 'fdg', '1396/03/16', '::1', '0', '0'). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===
+=== BEGIN MESSAGE ===
+Client IP:
+  ::1
+
+Host:
+  localhost
+
+Requested URI:
+  http://localhost/iranalpinetravel/news_view.php?id=39&title=Financial%20Planning
+
+Date:
+  2017-06-06 08:54:46
+
+Error:
+  SQL error: Column 'name' cannot be null.
+
+Developer Details:
+  SQL error: INSERT INTO newscomment (title, news_id, name, email, matn, date, ip, `read`, active) values ('sdfs', 39, null, 'szd@xdvxcvxv.xc', 'dddd', '1396/03/16', '::1', '0', '0'). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===
+=== BEGIN MESSAGE ===
+Client IP:
+  ::1
+
+Host:
+  localhost
+
+Requested URI:
+  http://localhost/iranalpinetravel/news_view.php?id=39&title=Financial%20Planning
+
+Date:
+  2017-06-06 08:57:55
+
+Error:
+  SQL error: Column 'name' cannot be null.
+
+Developer Details:
+  SQL error: INSERT INTO newscomment (title, news_id, name, email, matn, date, ip, `read`, active) values ('sdf', 39, null, null, 'sdf', '1396/03/16', '::1', '0', '0'). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===
+=== BEGIN MESSAGE ===
+Client IP:
+  ::1
+
+Host:
+  localhost
+
+Requested URI:
+  http://localhost/generalmogul/news_view.php?id=37&title=Emerging%20Trends%20and%20Innovations%20in%20Concrete
+
+Date:
+  2017-06-10 10:56:43
+
+Error:
+  SQL error: Column 'news_id' cannot be null.
+
+Developer Details:
+  SQL error: INSERT INTO newscomment (title, news_id, name, email, matn, date, ip, `read`, active) values ('sssss', null, 'test', 'szd@xdvxcvxv.xc', 'fhfgfgh', '1396/03/20', '::1', null, null). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===

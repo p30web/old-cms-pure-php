@@ -1,0 +1,16 @@
+[30-Nov-2019 01:12:54 Asia/Tehran] PHP Fatal error:  Uncaught exception 'Exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  AND cat = ?  AND showinmenu = ?  ORDER BY sort ASC' at line 1 query: SELECT  * FROM app_modules WHERE  status = ?  AND page in ( )  AND cat = ?  AND showinmenu = ?  ORDER BY sort ASC ' in /home/irandogebank/public_html/admin/includes/classes/mysql/MysqliDb.php:1913
+Stack trace:
+#0 /home/irandogebank/public_html/admin/includes/classes/mysql/MysqliDb.php(1506): MysqliDb->_prepareQuery()
+#1 /home/irandogebank/public_html/admin/includes/classes/mysql/MysqliDb.php(673): MysqliDb->_buildQuery(NULL)
+#2 /home/irandogebank/public_html/admin/Components/main-sidebar.php(91): MysqliDb->get('app_modules', NULL, Array)
+#3 /home/irandogebank/public_html/admin/Modules/Ref/ref.php(24): include('/home/irandogeb...')
+#4 {main}
+  thrown in /home/irandogebank/public_html/admin/includes/classes/mysql/MysqliDb.php on line 1913
+[30-Nov-2019 01:13:01 Asia/Tehran] PHP Fatal error:  Uncaught exception 'Exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')  AND cat = ?  AND showinmenu = ?  ORDER BY sort ASC' at line 1 query: SELECT  * FROM app_modules WHERE  status = ?  AND page in ( )  AND cat = ?  AND showinmenu = ?  ORDER BY sort ASC ' in /home/irandogebank/public_html/admin/includes/classes/mysql/MysqliDb.php:1913
+Stack trace:
+#0 /home/irandogebank/public_html/admin/includes/classes/mysql/MysqliDb.php(1506): MysqliDb->_prepareQuery()
+#1 /home/irandogebank/public_html/admin/includes/classes/mysql/MysqliDb.php(673): MysqliDb->_buildQuery(NULL)
+#2 /home/irandogebank/public_html/admin/Components/main-sidebar.php(91): MysqliDb->get('app_modules', NULL, Array)
+#3 /home/irandogebank/public_html/admin/Modules/Ref/ref.php(24): include('/home/irandogeb...')
+#4 {main}
+  thrown in /home/irandogebank/public_html/admin/includes/classes/mysql/MysqliDb.php on line 1913

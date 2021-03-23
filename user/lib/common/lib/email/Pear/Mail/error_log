@@ -1,0 +1,40 @@
+[13-Mar-2020 07:58:24 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/smtp.php on line 189
+[13-Mar-2020 07:58:24 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/smtp.php on line 26
+[13-Mar-2020 07:58:24 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/mail.php on line 26
+[13-Mar-2020 07:58:25 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/null.php on line 28
+[13-Mar-2020 07:58:25 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/sendmail.php on line 25
+[13-Mar-2020 07:58:36 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/null.php on line 28
+[13-Mar-2020 07:58:36 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/null.php on line 28
+[13-Mar-2020 07:58:36 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/null.php on line 28
+[13-Mar-2020 07:58:36 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/null.php on line 28
+[13-Mar-2020 07:58:36 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/null.php on line 28
+[13-Mar-2020 07:58:38 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/mail.php on line 26
+[13-Mar-2020 07:58:38 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/mail.php on line 26
+[13-Mar-2020 07:58:38 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/mail.php on line 26
+[13-Mar-2020 07:58:38 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/mail.php on line 26
+[13-Mar-2020 07:58:38 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/sendmail.php on line 25
+[13-Mar-2020 07:58:39 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/sendmail.php on line 25
+[13-Mar-2020 07:58:39 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/mail.php on line 26
+[13-Mar-2020 07:58:39 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/sendmail.php on line 25
+[13-Mar-2020 07:58:39 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/sendmail.php on line 25
+[13-Mar-2020 07:58:39 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/smtp.php on line 189
+[13-Mar-2020 07:58:39 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/smtp.php on line 26
+[13-Mar-2020 07:58:39 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/sendmail.php on line 25
+[13-Mar-2020 07:58:39 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/smtp.php on line 189
+[13-Mar-2020 07:58:39 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/smtp.php on line 26
+[13-Mar-2020 07:58:40 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/smtp.php on line 189
+[13-Mar-2020 07:58:40 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/smtp.php on line 26
+[13-Mar-2020 07:58:40 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/smtp.php on line 189
+[13-Mar-2020 07:58:40 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/smtp.php on line 26
+[13-Mar-2020 07:58:40 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/smtp.php on line 189
+[13-Mar-2020 07:58:40 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/smtp.php on line 26
+[29-Mar-2020 13:41:06 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/mail.php on line 26
+[29-Mar-2020 13:41:14 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/null.php on line 28
+[29-Mar-2020 13:41:15 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/sendmail.php on line 25
+[29-Mar-2020 13:41:18 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/smtp.php on line 189
+[29-Mar-2020 13:41:18 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/smtp.php on line 26
+[29-Mar-2020 13:41:20 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/mail.php on line 26
+[29-Mar-2020 13:41:26 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/null.php on line 28
+[29-Mar-2020 13:41:28 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/sendmail.php on line 25
+[29-Mar-2020 13:41:30 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/smtp.php on line 189
+[29-Mar-2020 13:41:30 UTC] PHP Fatal error:  Class 'Mail' not found in /home/irandogebank/public_html/user/lib/common/lib/email/Pear/Mail/smtp.php on line 26

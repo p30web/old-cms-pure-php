@@ -1,0 +1,11 @@
+[21-Aug-2019 14:24:57 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/irandogebank/public_html/admin/lib/file/function.php:399
+Stack trace:
+#0 /home/irandogebank/public_html/admin/Modules/Menus/menus.php(143): encrypt('menus', '26b9dbc801b3b62...')
+#1 {main}
+  thrown in /home/irandogebank/public_html/admin/lib/file/function.php on line 399
+[21-Aug-2019 18:46:18 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/irandogebank/public_html/admin/lib/file/function.php:399
+Stack trace:
+#0 /home/irandogebank/public_html/admin/Modules/Menus/menus.php(143): encrypt('menus', '201daed9e9310b6...')
+#1 {main}
+  thrown in /home/irandogebank/public_html/admin/lib/file/function.php on line 399
+[05-Sep-2019 16:00:26 Asia/Tehran] PHP Fatal error:  Call to undefined function mcrypt_encrypt() in /home/irandogebank/public_html/admin/lib/file/function.php on line 399

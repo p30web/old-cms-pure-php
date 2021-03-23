@@ -1,0 +1,34 @@
+=== BEGIN MESSAGE ===
+Client IP:
+  ::1
+
+Host:
+  localhost
+
+Requested URI:
+  http://localhost/torood/news_view.php?id=40&title=%D8%B1%D9%88%D8%B4%E2%80%8C%D9%87%D8%A7%DB%8C%20%D9%86%D9%88%DB%8C%D9%86%20%D8%A8%D8%A7%D8%B2%DB%8C%D8%A7%D9%81%D8%AA%20%D9%81%D9%84%D8%B2%D8%A7%D8%AA2
+
+Date:
+  2017-05-09 08:38:46
+
+Error:
+  SQL error: Column 'news_id' cannot be null.
+
+Developer Details:
+  SQL error: INSERT INTO newscomment (title, news_id, name, email, matn, date, ip, `read`, active) values ('عنوان 12', null, 'نام', 'info@azad.com', 'پیام', '1396/02/19', '::1', null, null). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===

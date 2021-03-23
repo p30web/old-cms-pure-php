@@ -1,0 +1,1 @@
+[29-Mar-2020 13:36:59 UTC] PHP Warning:  imagejpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/irandogebank/public_html/includes/master-captcha/src/Captcha.php on line 125

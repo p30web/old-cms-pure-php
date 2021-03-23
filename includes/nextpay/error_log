@@ -1,0 +1,15 @@
+[23-Mar-2020 23:58:18 Asia/Tehran] PHP Notice:  Undefined variable: database_Host in /home/irandogebank/public_html/includes/nextpay/init.php on line 4
+[23-Mar-2020 23:58:18 Asia/Tehran] PHP Notice:  Undefined variable: database_User in /home/irandogebank/public_html/includes/nextpay/init.php on line 4
+[23-Mar-2020 23:58:18 Asia/Tehran] PHP Notice:  Undefined variable: database_Password in /home/irandogebank/public_html/includes/nextpay/init.php on line 4
+[23-Mar-2020 23:58:18 Asia/Tehran] PHP Notice:  Undefined variable: database_Name in /home/irandogebank/public_html/includes/nextpay/init.php on line 4
+[23-Mar-2020 23:58:18 Asia/Tehran] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/irandogebank/public_html/includes/nextpay/init.php on line 4
+[29-Mar-2020 18:07:53 Asia/Tehran] PHP Notice:  Undefined variable: database_Host in /home/irandogebank/public_html/includes/nextpay/init.php on line 4
+[29-Mar-2020 18:07:53 Asia/Tehran] PHP Notice:  Undefined variable: database_User in /home/irandogebank/public_html/includes/nextpay/init.php on line 4
+[29-Mar-2020 18:07:53 Asia/Tehran] PHP Notice:  Undefined variable: database_Password in /home/irandogebank/public_html/includes/nextpay/init.php on line 4
+[29-Mar-2020 18:07:53 Asia/Tehran] PHP Notice:  Undefined variable: database_Name in /home/irandogebank/public_html/includes/nextpay/init.php on line 4
+[29-Mar-2020 18:07:53 Asia/Tehran] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/irandogebank/public_html/includes/nextpay/init.php on line 4
+[29-Mar-2020 18:07:54 Asia/Tehran] PHP Notice:  Undefined variable: database_Host in /home/irandogebank/public_html/includes/nextpay/init.php on line 4
+[29-Mar-2020 18:07:54 Asia/Tehran] PHP Notice:  Undefined variable: database_User in /home/irandogebank/public_html/includes/nextpay/init.php on line 4
+[29-Mar-2020 18:07:54 Asia/Tehran] PHP Notice:  Undefined variable: database_Password in /home/irandogebank/public_html/includes/nextpay/init.php on line 4
+[29-Mar-2020 18:07:54 Asia/Tehran] PHP Notice:  Undefined variable: database_Name in /home/irandogebank/public_html/includes/nextpay/init.php on line 4
+[29-Mar-2020 18:07:54 Asia/Tehran] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/irandogebank/public_html/includes/nextpay/init.php on line 4

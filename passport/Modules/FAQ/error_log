@@ -1,0 +1,12 @@
+[20-Aug-2019 13:44:10 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/irandogebank/public_html/admin/lib/file/function.php:399
+Stack trace:
+#0 /home/irandogebank/public_html/admin/Modules/FAQ/faq_cats.php(136): encrypt('1', '944e8d8714a4a40...')
+#1 {main}
+  thrown in /home/irandogebank/public_html/admin/lib/file/function.php on line 399
+[21-Aug-2019 14:23:03 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/irandogebank/public_html/admin/lib/file/function.php:399
+Stack trace:
+#0 /home/irandogebank/public_html/admin/Modules/FAQ/faq_cats.php(136): encrypt('1', '26b9dbc801b3b62...')
+#1 {main}
+  thrown in /home/irandogebank/public_html/admin/lib/file/function.php on line 399
+[05-Sep-2019 16:00:16 Asia/Tehran] PHP Fatal error:  Call to undefined function mcrypt_encrypt() in /home/irandogebank/public_html/admin/lib/file/function.php on line 399
+[06-Sep-2019 19:16:19 Asia/Tehran] PHP Fatal error:  Call to undefined function mcrypt_encrypt() in /home/irandogebank/public_html/admin/lib/file/function.php on line 399

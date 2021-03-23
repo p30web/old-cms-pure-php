@@ -1,0 +1,8 @@
+[14-Apr-2020 14:05:46 Asia/Tehran] PHP Fatal error:  Uncaught exception 'Exception' with message 'Unknown column 'token' in 'field list' query: INSERT  INTO pending_transaction (`member_id`, `time`, `txid`, `token`, `amount_txid`, `final_amount`, `user_wallet`)  VALUES (?, ?, ?, ?, ?, ?, ?)' in /home/irandogebank/public_html/user/includes/classes/mysql/MysqliDb.php:1913
+Stack trace:
+#0 /home/irandogebank/public_html/user/includes/classes/mysql/MysqliDb.php(1506): MysqliDb->_prepareQuery()
+#1 /home/irandogebank/public_html/user/includes/classes/mysql/MysqliDb.php(1446): MysqliDb->_buildQuery(NULL, Array)
+#2 /home/irandogebank/public_html/user/includes/classes/mysql/MysqliDb.php(752): MysqliDb->_buildInsert('pending_transac...', Array, 'INSERT')
+#3 /home/irandogebank/public_html/user/api/credit_charge.php(292): MysqliDb->insert('pending_transac...', Array)
+#4 {main}
+  thrown in /home/irandogebank/public_html/user/includes/classes/mysql/MysqliDb.php on line 1913

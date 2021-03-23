@@ -1,0 +1,11 @@
+[23-Mar-2020 19:21:52 UTC] PHP Fatal error:  Class 'tNG_CheckTableField' not found in /home/irandogebank/public_html/includes/tng/triggers/tNG_CheckDetailRecord.class.php on line 21
+[23-Mar-2020 19:21:52 UTC] PHP Fatal error:  Class 'tNG_CheckTableField' not found in /home/irandogebank/public_html/includes/tng/triggers/tNG_CheckMasterRecord.class.php on line 21
+[23-Mar-2020 19:21:57 UTC] PHP Fatal error:  Class 'tNG_Email' not found in /home/irandogebank/public_html/includes/tng/triggers/tNG_EmailPageSection.class.php on line 21
+[23-Mar-2020 19:21:58 UTC] PHP Fatal error:  Class 'tNG_Email' not found in /home/irandogebank/public_html/includes/tng/triggers/tNG_EmailRecordset.class.php on line 22
+[23-Mar-2020 19:22:01 UTC] PHP Fatal error:  Class 'tNG_FileUpload' not found in /home/irandogebank/public_html/includes/tng/triggers/tNG_ImageUpload.class.php on line 22
+[23-Mar-2020 19:22:04 UTC] PHP Fatal error:  Class 'tNG_MFileUpload' not found in /home/irandogebank/public_html/includes/tng/triggers/tNG_MImageUpload.class.php on line 22
+[23-Mar-2020 19:22:08 UTC] PHP Fatal error:  Call to undefined function KT_RealPath() in /home/irandogebank/public_html/includes/tng/triggers/tNG_TidyContent.inc.php on line 26
+[29-Mar-2020 13:41:19 UTC] PHP Fatal error:  Class 'tNG_CheckTableField' not found in /home/irandogebank/public_html/includes/tng/triggers/tNG_CheckDetailRecord.class.php on line 21
+[29-Mar-2020 13:41:22 UTC] PHP Fatal error:  Class 'tNG_CheckTableField' not found in /home/irandogebank/public_html/includes/tng/triggers/tNG_CheckMasterRecord.class.php on line 21
+[29-Mar-2020 13:41:31 UTC] PHP Fatal error:  Class 'tNG_CheckTableField' not found in /home/irandogebank/public_html/includes/tng/triggers/tNG_CheckDetailRecord.class.php on line 21
+[29-Mar-2020 13:41:35 UTC] PHP Fatal error:  Class 'tNG_CheckTableField' not found in /home/irandogebank/public_html/includes/tng/triggers/tNG_CheckMasterRecord.class.php on line 21

@@ -1,0 +1,45 @@
+[20-Aug-2019 09:04:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/irandogebank/public_html/admin/lib/file/function.php:399
+Stack trace:
+#0 /home/irandogebank/public_html/admin/Modules/Pages/pages.php(141): encrypt('pages', 'cc2e6c7898bd74f...')
+#1 {main}
+  thrown in /home/irandogebank/public_html/admin/lib/file/function.php on line 399
+[20-Aug-2019 09:04:59 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/irandogebank/public_html/admin/lib/file/function.php:399
+Stack trace:
+#0 /home/irandogebank/public_html/admin/Modules/Pages/pages.php(141): encrypt('pages', 'cc2e6c7898bd74f...')
+#1 {main}
+  thrown in /home/irandogebank/public_html/admin/lib/file/function.php on line 399
+[20-Aug-2019 09:05:00 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/irandogebank/public_html/admin/lib/file/function.php:399
+Stack trace:
+#0 /home/irandogebank/public_html/admin/Modules/Pages/pages.php(141): encrypt('pages', 'cc2e6c7898bd74f...')
+#1 {main}
+  thrown in /home/irandogebank/public_html/admin/lib/file/function.php on line 399
+[20-Aug-2019 09:05:07 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/irandogebank/public_html/admin/lib/file/function.php:399
+Stack trace:
+#0 /home/irandogebank/public_html/admin/Modules/Pages/pages.php(141): encrypt('pages', 'cc2e6c7898bd74f...')
+#1 {main}
+  thrown in /home/irandogebank/public_html/admin/lib/file/function.php on line 399
+[20-Aug-2019 13:43:39 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/irandogebank/public_html/admin/lib/file/function.php:399
+Stack trace:
+#0 /home/irandogebank/public_html/admin/Modules/Pages/pages.php(141): encrypt('pages', '944e8d8714a4a40...')
+#1 {main}
+  thrown in /home/irandogebank/public_html/admin/lib/file/function.php on line 399
+[20-Aug-2019 13:44:02 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/irandogebank/public_html/admin/lib/file/function.php:399
+Stack trace:
+#0 /home/irandogebank/public_html/admin/Modules/Pages/pages.php(141): encrypt('pages', '944e8d8714a4a40...')
+#1 {main}
+  thrown in /home/irandogebank/public_html/admin/lib/file/function.php on line 399
+[21-Aug-2019 15:14:56 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/irandogebank/public_html/admin/lib/file/function.php:399
+Stack trace:
+#0 /home/irandogebank/public_html/admin/Modules/Pages/pages.php(141): encrypt('pages', '26b9dbc801b3b62...')
+#1 {main}
+  thrown in /home/irandogebank/public_html/admin/lib/file/function.php on line 399
+[21-Aug-2019 18:46:21 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/irandogebank/public_html/admin/lib/file/function.php:399
+Stack trace:
+#0 /home/irandogebank/public_html/admin/Modules/Pages/pages.php(141): encrypt('pages', '201daed9e9310b6...')
+#1 {main}
+  thrown in /home/irandogebank/public_html/admin/lib/file/function.php on line 399
+[21-Aug-2019 18:46:26 Asia/Tehran] PHP Fatal error:  Uncaught Error: Call to undefined function mcrypt_encrypt() in /home/irandogebank/public_html/admin/lib/file/function.php:399
+Stack trace:
+#0 /home/irandogebank/public_html/admin/Modules/Pages/pages.php(141): encrypt('pages', '201daed9e9310b6...')
+#1 {main}
+  thrown in /home/irandogebank/public_html/admin/lib/file/function.php on line 399

@@ -1,0 +1,68 @@
+=== BEGIN MESSAGE ===
+Client IP:
+  ::1
+
+Host:
+  localhost
+
+Requested URI:
+  http://localhost/iranberry/news_view.php?id=35&title=%D9%BE%DB%8C%D8%A7%D9%85%20%D8%AF%DA%A9%D8%AA%D8%B1%20%DA%AF%D8%B1%D9%85%D8%A7%D8%A8%DB%8C%20%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%AA%20%D8%AF%D8%B1%DA%AF%D8%B0%D8%B4%D8%AA%20%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%D8%A7%D9%86%20%D9%88%D8%B8%DB%8C%D9%81%D9%872
+
+Date:
+  2017-03-05 07:18:56
+
+Error:
+  SQL error: Column 'news_id' cannot be null.
+
+Developer Details:
+  SQL error: INSERT INTO newscomment (title, news_id, name, email, matn, date, ip, `read`, active) values ('معرفی شرکت5', null, 'تست25', 'info@iranberry.com', null, '1395/12/15', '::1', null, null). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===
+=== BEGIN MESSAGE ===
+Client IP:
+  ::1
+
+Host:
+  localhost
+
+Requested URI:
+  http://localhost/iranberry/news_view.php?id=35&title=%D9%BE%DB%8C%D8%A7%D9%85%20%D8%AF%DA%A9%D8%AA%D8%B1%20%DA%AF%D8%B1%D9%85%D8%A7%D8%A8%DB%8C%20%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%AA%20%D8%AF%D8%B1%DA%AF%D8%B0%D8%B4%D8%AA%20%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%D8%A7%D9%86%20%D9%88%D8%B8%DB%8C%D9%81%D9%872
+
+Date:
+  2017-03-05 07:20:02
+
+Error:
+  SQL error: Column 'matn' cannot be null.
+
+Developer Details:
+  SQL error: INSERT INTO newscomment (title, news_id, name, email, matn, date, ip, `read`, active) values ('شرکت پیشگامـان توسعـه بـری', 35, 'تست25', 'info@iranberry.com', null, '1395/12/15', '::1', '0', '0'). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===

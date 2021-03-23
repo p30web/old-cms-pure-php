@@ -1,0 +1,9 @@
+[23-Mar-2020 19:32:25 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/includes/common/lib/email/Pear/Mail.php on line 134
+[23-Mar-2020 19:32:26 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/includes/common/lib/email/Pear/PEAR.php on line 557
+[23-Mar-2020 19:32:26 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/includes/common/lib/email/Pear/PEAR.php on line 560
+[29-Mar-2020 13:38:01 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/includes/common/lib/email/Pear/Mail.php on line 134
+[29-Mar-2020 13:38:02 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/includes/common/lib/email/Pear/Mail.php on line 134
+[29-Mar-2020 13:38:34 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/includes/common/lib/email/Pear/PEAR.php on line 557
+[29-Mar-2020 13:38:34 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/includes/common/lib/email/Pear/PEAR.php on line 560
+[29-Mar-2020 13:38:35 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/includes/common/lib/email/Pear/PEAR.php on line 557
+[29-Mar-2020 13:38:35 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/includes/common/lib/email/Pear/PEAR.php on line 560

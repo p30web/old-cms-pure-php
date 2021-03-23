@@ -1,0 +1,5 @@
+
+
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://www.irandogebank.com/$1 [R,L]

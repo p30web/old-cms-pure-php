@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "welcom"
+AuthUserFile "/home/irandogebank/.htpasswds/public_html/passport/passwd"
+require valid-user

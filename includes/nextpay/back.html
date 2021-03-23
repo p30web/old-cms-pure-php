@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>نتیجه پرداخت آنلاین</title>
+
+	<link type="text/css" rel="stylesheet" href="static/css/bootstrap.css">
+	<style>
+	@font-face {
+	    font-family: 'dinar';
+	    src: url('./static/fonts/dinar.eot');
+	    src: url('./static/fonts/dinar.eot?#iefix') format('embedded-opentype'),
+	         url('./static/fonts/dinar.woff') format('woff'),
+	         url('./static/fonts/dinar.ttf') format('truetype'),
+	         url('./static/fonts/dinar.svg#dinar') format('svg');
+	    font-weight: normal;
+	    font-style: normal;
+	}
+	body {
+		background: url("static/img/bg.jpg") no-repeat center center fixed;
+	 -webkit-background-size: cover;
+	 -moz-background-size: cover;
+	 -o-background-size: cover;
+	 background-size: cover;
+	}
+	html , body ,h1 ,  h2 , h3 {
+		 font-family: 'dinar';
+	 }
+	.box {
+		background:#fff;
+		transition:all 0.2s ease;
+		border:2px dashed #dadada;
+		margin-top: 10px;
+		box-sizing: border-box;
+		border-radius: 5px;
+		background-clip: padding-box;
+		padding:0 20px 20px 20px;
+		min-height:340px;
+	}
+
+	.box:hover {
+		border:2px solid #525C7A;
+	}
+
+	.box span.box-title {
+		color: #fff;
+		font-size: 24px;
+		font-weight: 300;
+		text-transform: uppercase;
+	}
+
+	.box .box-content {
+		padding: 16px;
+		border-radius: 0 0 2px 2px;
+		background-clip: padding-box;
+		box-sizing: border-box;
+	}
+	.box .box-content p {
+		color:#515c66;
+		text-transform:none;
+	}
+
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="row">
+			<h2 class="text-center" style="color:white;">پرداخت آنلاین</h2>
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<div class="box">
+						<div class="box-content">
+							<h1 class="tag-title">نتیجه پرداخت</h1>
+							<hr />
+							<p><?=$message;?></p>
+							<br />
+							<a href="index.php" class="btn btn-primary">بازگشت به صفجه پرداخت</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</br>
+</br>
+<p style="text-align: center;color:white;">قدرت گرفته از سامانه پرداخت الکترونیک <a href="http://www.nextpay.ir" target="_blank">نکست پی</a></p>
+</body>
+</html>

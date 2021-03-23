@@ -1,0 +1,8 @@
+[02-Apr-2020 09:11:33 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE  id = ?' at line 1 query: UPDATE members WHERE  id = ? ' in /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php:1913
+Stack trace:
+#0 /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php(1506): MysqliDb->_prepareQuery()
+#1 /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php(841): MysqliDb->_buildQuery(NULL, NULL)
+#2 /home/irandogebank/public_html/plan_cronjob.php(199): MysqliDb->update('members', NULL)
+#3 {main}
+  thrown in /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php on line 1913
+[18-Apr-2020 09:13:53 UTC] PHP Fatal error:  Call to undefined function jdate() in /home/irandogebank/public_html/pending_transaction.php on line 167

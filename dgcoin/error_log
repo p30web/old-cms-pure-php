@@ -1,0 +1,9 @@
+[19-Dec-2019 14:53:16 UTC] PHP Fatal error:  Class 'BlockIo' not found in /home/irandogebank/public_html/dgcoin/d.php on line 6
+[19-Dec-2019 14:53:18 UTC] PHP Fatal error:  Class 'BlockIo' not found in /home/irandogebank/public_html/dgcoin/d.php on line 6
+[19-Dec-2019 14:57:30 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Failed: Invalid value for parameter PRICE_BASE provided.' in /home/irandogebank/public_html/dgcoin/block_io.php:92
+Stack trace:
+#0 /home/irandogebank/public_html/dgcoin/block_io.php(50): BlockIo->_request('get_current_pri...', Array)
+#1 /home/irandogebank/public_html/dgcoin/d.php(19): BlockIo->__call('get_current_pri...', Array)
+#2 /home/irandogebank/public_html/dgcoin/d.php(19): BlockIo->get_current_price(Array)
+#3 {main}
+  thrown in /home/irandogebank/public_html/dgcoin/block_io.php on line 92

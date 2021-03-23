@@ -1,0 +1,74 @@
+
+/*Pricing plan*/
+.pricing_plan_detail{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 0;
+}
+.pricing_plan_detail li{
+    padding: 10px 0;
+    font-size: 1.15rem;
+}
+.pricing_plan_detail li strong{
+    color: #3e94fa;
+}
+
+.wallet_address{
+
+}
+
+.wallet_address img{
+    margin: 5px auto;
+    display: block;
+}
+
+.wallet_address p{
+    text-align: center;
+}
+
+.wallet_address h3{
+    margin: 5px;
+    text-align: center;overflow: auto;
+}
+
+.wallet_address .btn.btn-icon.btn-circle{
+    margin: 0 5px;
+}
+
+
+#g_recaptcha{
+    display: block;
+    margin: 25px auto;
+    position: relative;
+    width: 100%;
+}
+
+form.kt-form .kt-alert.alert-e404 span {
+    color: #fff;
+    background: #5233c3;
+    width: 100%;
+    padding: 19px;
+    border-radius: 3px;
+}
+
+.mtsnb .mtsnb-container {width: 100%;font-size: 20px;font-weight: bolder;line-height: 1.4;}
+
+.mtsnb a { color: #0300ea;}
+.mtsnb a:hover { color: #ffa000;}
+.mtsnb .mtsnb-button, #mtsnb-sp-selector, #mtsnb-sp-selector .mtsnb-sp-icon { color: #000000!important; background-color: #ffa000;}
+
+div#mtsnb-22,div#mtsnb-24 {
+    background-color: #f21386;
+    color:
+#ffffff;
+}
+
+@media (max-width: 1024px) {
+    div#mtsnb-24 {display: none;}
+}
+
+@media (min-width: 1024px) {
+    div#mtsnb-22 {display: none;}
+}

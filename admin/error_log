@@ -1,0 +1,18 @@
+[29-Jan-2020 09:04:32 UTC] PHP Warning:  require_once(checklogin_root.php): failed to open stream: No such file or directory in /home/irandogebank/public_html/admin/index.php on line 1
+[29-Jan-2020 09:04:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'checklogin_root.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/irandogebank/public_html/admin/index.php on line 1
+[29-Jan-2020 09:04:34 UTC] PHP Warning:  require_once(checklogin_root.php): failed to open stream: No such file or directory in /home/irandogebank/public_html/admin/index.php on line 1
+[29-Jan-2020 09:04:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'checklogin_root.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/irandogebank/public_html/admin/index.php on line 1
+[29-Jan-2020 09:06:54 UTC] PHP Warning:  include_once(root-head.php): failed to open stream: No such file or directory in /home/irandogebank/public_html/admin/index.php on line 8
+[29-Jan-2020 09:06:54 UTC] PHP Warning:  include_once(): Failed opening 'root-head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/irandogebank/public_html/admin/index.php on line 8
+[29-Jan-2020 09:18:51 UTC] PHP Warning:  include_once(root-head.php): failed to open stream: No such file or directory in /home/irandogebank/public_html/admin/index.php on line 8
+[29-Jan-2020 09:18:51 UTC] PHP Warning:  include_once(): Failed opening 'root-head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/irandogebank/public_html/admin/index.php on line 8
+[29-Jan-2020 09:18:52 UTC] PHP Warning:  include_once(root-head.php): failed to open stream: No such file or directory in /home/irandogebank/public_html/admin/index.php on line 8
+[29-Jan-2020 09:18:52 UTC] PHP Warning:  include_once(): Failed opening 'root-head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/irandogebank/public_html/admin/index.php on line 8
+[29-Jan-2020 09:18:56 UTC] PHP Warning:  include_once(root-head.php): failed to open stream: No such file or directory in /home/irandogebank/public_html/admin/index.php on line 8
+[29-Jan-2020 09:18:56 UTC] PHP Warning:  include_once(): Failed opening 'root-head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/irandogebank/public_html/admin/index.php on line 8
+[29-Jan-2020 09:19:46 UTC] PHP Warning:  include_once(root-head.php): failed to open stream: No such file or directory in /home/irandogebank/public_html/admin/index.php on line 15
+[29-Jan-2020 09:19:46 UTC] PHP Warning:  include_once(): Failed opening 'root-head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/irandogebank/public_html/admin/index.php on line 15
+[29-Jan-2020 09:19:47 UTC] PHP Warning:  include_once(root-head.php): failed to open stream: No such file or directory in /home/irandogebank/public_html/admin/index.php on line 15
+[29-Jan-2020 09:19:47 UTC] PHP Warning:  include_once(): Failed opening 'root-head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/irandogebank/public_html/admin/index.php on line 15
+[29-Jan-2020 09:19:48 UTC] PHP Warning:  include_once(root-head.php): failed to open stream: No such file or directory in /home/irandogebank/public_html/admin/index.php on line 15
+[29-Jan-2020 09:19:48 UTC] PHP Warning:  include_once(): Failed opening 'root-head.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/irandogebank/public_html/admin/index.php on line 15

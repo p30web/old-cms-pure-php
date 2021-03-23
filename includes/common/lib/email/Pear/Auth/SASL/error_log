@@ -1,0 +1,15 @@
+[23-Mar-2020 19:32:32 UTC] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/irandogebank/public_html/includes/common/lib/email/Pear/Auth/SASL/Anonymous.php on line 49
+[23-Mar-2020 19:32:33 UTC] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/irandogebank/public_html/includes/common/lib/email/Pear/Auth/SASL/CramMD5.php on line 49
+[23-Mar-2020 19:32:33 UTC] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/irandogebank/public_html/includes/common/lib/email/Pear/Auth/SASL/DigestMD5.php on line 49
+[23-Mar-2020 19:32:34 UTC] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/irandogebank/public_html/includes/common/lib/email/Pear/Auth/SASL/Login.php on line 52
+[23-Mar-2020 19:32:34 UTC] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/irandogebank/public_html/includes/common/lib/email/Pear/Auth/SASL/Plain.php on line 49
+[29-Mar-2020 13:38:32 UTC] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/irandogebank/public_html/includes/common/lib/email/Pear/Auth/SASL/Anonymous.php on line 49
+[29-Mar-2020 13:38:44 UTC] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/irandogebank/public_html/includes/common/lib/email/Pear/Auth/SASL/Anonymous.php on line 49
+[29-Mar-2020 13:39:39 UTC] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/irandogebank/public_html/includes/common/lib/email/Pear/Auth/SASL/CramMD5.php on line 49
+[29-Mar-2020 13:39:45 UTC] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/irandogebank/public_html/includes/common/lib/email/Pear/Auth/SASL/DigestMD5.php on line 49
+[29-Mar-2020 13:39:49 UTC] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/irandogebank/public_html/includes/common/lib/email/Pear/Auth/SASL/Login.php on line 52
+[29-Mar-2020 13:39:51 UTC] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/irandogebank/public_html/includes/common/lib/email/Pear/Auth/SASL/CramMD5.php on line 49
+[29-Mar-2020 13:39:54 UTC] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/irandogebank/public_html/includes/common/lib/email/Pear/Auth/SASL/Plain.php on line 49
+[29-Mar-2020 13:39:59 UTC] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/irandogebank/public_html/includes/common/lib/email/Pear/Auth/SASL/DigestMD5.php on line 49
+[29-Mar-2020 13:40:05 UTC] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/irandogebank/public_html/includes/common/lib/email/Pear/Auth/SASL/Login.php on line 52
+[29-Mar-2020 13:40:08 UTC] PHP Fatal error:  Class 'Auth_SASL_Common' not found in /home/irandogebank/public_html/includes/common/lib/email/Pear/Auth/SASL/Plain.php on line 49

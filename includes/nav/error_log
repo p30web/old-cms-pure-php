@@ -1,0 +1,29 @@
+[23-Mar-2020 19:29:33 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_AZ.inc.php on line 38
+[23-Mar-2020 19:29:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/irandogebank/public_html/includes/nav/NAV_Category.inc.php on line 4
+[23-Mar-2020 19:29:34 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/irandogebank/public_html/includes/nav/NAV_CategoryPrevNext.inc.php on line 17
+[23-Mar-2020 19:29:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/irandogebank/public_html/includes/nav/NAV_CategoryPrevNext.inc.php on line 26
+[23-Mar-2020 19:29:34 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_CategoryPrevNext.inc.php on line 52
+[23-Mar-2020 19:29:35 UTC] PHP Fatal error:  Class 'NAV_Regular' not found in /home/irandogebank/public_html/includes/nav/NAV_Page_Navigation.class.php on line 17
+[23-Mar-2020 19:29:35 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_Page_Navigation.inc.php on line 46
+[23-Mar-2020 19:29:36 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_Page_Statistics.inc.php on line 4
+[23-Mar-2020 19:29:37 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_Text_Navigation.inc.php on line 9
+[23-Mar-2020 19:29:37 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_Text_Statistics.inc.php on line 6
+[29-Mar-2020 13:36:41 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_AZ.inc.php on line 38
+[29-Mar-2020 13:36:42 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_AZ.inc.php on line 38
+[29-Mar-2020 13:37:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/irandogebank/public_html/includes/nav/NAV_Category.inc.php on line 4
+[29-Mar-2020 13:37:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/irandogebank/public_html/includes/nav/NAV_Category.inc.php on line 4
+[29-Mar-2020 13:37:54 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/irandogebank/public_html/includes/nav/NAV_CategoryPrevNext.inc.php on line 17
+[29-Mar-2020 13:37:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/irandogebank/public_html/includes/nav/NAV_CategoryPrevNext.inc.php on line 26
+[29-Mar-2020 13:37:54 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_CategoryPrevNext.inc.php on line 52
+[29-Mar-2020 13:37:54 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/irandogebank/public_html/includes/nav/NAV_CategoryPrevNext.inc.php on line 17
+[29-Mar-2020 13:37:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/irandogebank/public_html/includes/nav/NAV_CategoryPrevNext.inc.php on line 26
+[29-Mar-2020 13:37:54 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_CategoryPrevNext.inc.php on line 52
+[29-Mar-2020 13:37:56 UTC] PHP Fatal error:  Class 'NAV_Regular' not found in /home/irandogebank/public_html/includes/nav/NAV_Page_Navigation.class.php on line 17
+[29-Mar-2020 13:38:00 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_Page_Navigation.inc.php on line 46
+[29-Mar-2020 13:38:00 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_Page_Statistics.inc.php on line 4
+[29-Mar-2020 13:38:00 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_Page_Navigation.inc.php on line 46
+[29-Mar-2020 13:38:01 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_Page_Statistics.inc.php on line 4
+[29-Mar-2020 13:38:04 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_Text_Navigation.inc.php on line 9
+[29-Mar-2020 13:38:04 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_Text_Navigation.inc.php on line 9
+[29-Mar-2020 13:38:24 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_Text_Statistics.inc.php on line 6
+[29-Mar-2020 13:38:25 UTC] PHP Fatal error:  Call to undefined function NAV_getResource() in /home/irandogebank/public_html/includes/nav/NAV_Text_Statistics.inc.php on line 6

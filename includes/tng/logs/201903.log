@@ -1,0 +1,312 @@
+=== BEGIN MESSAGE ===
+Client IP:
+  209.242.219.160
+
+Host:
+  mmcorg.ir
+
+Requested URI:
+  http://mmcorg.ir/contact.php
+
+Date:
+  2019-03-03 12:28:49
+
+Error:
+  SQL error: Column 'mobile' cannot be null.
+
+Developer Details:
+  SQL error: INSERT INTO message (sender, title, email, mobile, msggroup, text, date, `read`, ip, portalid, `status`) values (null, null, 'eric@talkwithcustomer.com', null, 7, 'Hello,
+
+You have a website, right? 
+  
+Of course you do. I found mmcorg.ir today.
+
+It gets traffic every day – that you’re probably spending $2 / $4 / $10 or more a click to get.  Not including all of the work you put into creating social media, videos, blog posts, emails, and so on.
+
+So you’re investing seriously in getting people to that site.
+
+But how’s it working?  Great? Okay?  Not so much?
+
+If that answer could be better, then it’s likely you’re putting a lot of time, effort, and money into an approach that’s not paying off like it should.
+
+Now… imagine doubling your lead conversion in just minutes… In fact, I’ll go even better.
+ 
+You could actually get up to 100X more conversions!
+
+I’m not making this up.  As Chris Smith, best-selling author of The Conversion Code says:
+-Speed is essential - there is a 100x decrease in Leads when a Lead is contacted within 14 minutes vs being contacted within 5 minutes.
+
+He’s backed up by a study at MIT that found the odds of contacting a lead will increase by 100 times if attempted in 5 minutes or less.
+
+Again, out of the 100s of visitors to your website, how many actually call to become clients?
+
+Well, you can significantly increase the number of calls you get – with ZERO extra effort.
+
+Our software, Talk With Customer, makes it easy, simple, and fast – in fact, you can start getting more calls today… and at absolutely no charge to you.
+
+CLICK HERE http://www.talkwithcustomer.com to find out how.
+
+Sincerely,
+
+Eric Jones
+
+PS: Don’t just take my word for it, TalkWithCustomer works:
+-EMA has been looking for ways to reach out to an audience. TalkWithCustomer so far is the most direct call of action. It has produced above average closing ratios and we are thrilled. Thank you for providing a real and effective tool to generate REAL leads. - Patrick MontesDeOca, Ema2Trade
+
+Best of all, act now to get a no-cost 14-Day Test Drive – our gift to you just for giving TalkWithCustomer a try. 
+
+CLICK HERE http://www.talkwithcustomer.com to start converting up to 100X more leads today!
+
+
+If you''d like to unsubscribe click here. http://liveserveronline.com/talkwithcustomer.aspx?d=mmcorg.ir
+', '1397/12/12', '0', '209.242.219.160', '0', '0'). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===
+=== BEGIN MESSAGE ===
+Client IP:
+  209.242.219.160
+
+Host:
+  mmcorg.ir
+
+Requested URI:
+  http://mmcorg.ir/contact.php
+
+Date:
+  2019-03-03 12:28:49
+
+Error:
+  SQL error: Column 'mobile' cannot be null.
+
+Developer Details:
+  SQL error: INSERT INTO message (sender, title, email, mobile, msggroup, text, date, `read`, ip, portalid, `status`) values (null, null, 'eric@talkwithcustomer.com', null, 7, 'Hello,
+
+You have a website, right? 
+  
+Of course you do. I found mmcorg.ir today.
+
+It gets traffic every day – that you’re probably spending $2 / $4 / $10 or more a click to get.  Not including all of the work you put into creating social media, videos, blog posts, emails, and so on.
+
+So you’re investing seriously in getting people to that site.
+
+But how’s it working?  Great? Okay?  Not so much?
+
+If that answer could be better, then it’s likely you’re putting a lot of time, effort, and money into an approach that’s not paying off like it should.
+
+Now… imagine doubling your lead conversion in just minutes… In fact, I’ll go even better.
+ 
+You could actually get up to 100X more conversions!
+
+I’m not making this up.  As Chris Smith, best-selling author of The Conversion Code says:
+-Speed is essential - there is a 100x decrease in Leads when a Lead is contacted within 14 minutes vs being contacted within 5 minutes.
+
+He’s backed up by a study at MIT that found the odds of contacting a lead will increase by 100 times if attempted in 5 minutes or less.
+
+Again, out of the 100s of visitors to your website, how many actually call to become clients?
+
+Well, you can significantly increase the number of calls you get – with ZERO extra effort.
+
+Our software, Talk With Customer, makes it easy, simple, and fast – in fact, you can start getting more calls today… and at absolutely no charge to you.
+
+CLICK HERE http://www.talkwithcustomer.com to find out how.
+
+Sincerely,
+
+Eric Jones
+
+PS: Don’t just take my word for it, TalkWithCustomer works:
+-EMA has been looking for ways to reach out to an audience. TalkWithCustomer so far is the most direct call of action. It has produced above average closing ratios and we are thrilled. Thank you for providing a real and effective tool to generate REAL leads. - Patrick MontesDeOca, Ema2Trade
+
+Best of all, act now to get a no-cost 14-Day Test Drive – our gift to you just for giving TalkWithCustomer a try. 
+
+CLICK HERE http://www.talkwithcustomer.com to start converting up to 100X more leads today!
+
+
+If you''d like to unsubscribe click here. http://liveserveronline.com/talkwithcustomer.aspx?d=mmcorg.ir
+', '1397/12/12', '0', '209.242.219.160', '0', '0'). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===
+=== BEGIN MESSAGE ===
+Client IP:
+  185.225.136.28
+
+Host:
+  mmcorg.ir
+
+Requested URI:
+  http://mmcorg.ir/contact.php
+
+Date:
+  2019-03-06 01:17:32
+
+Error:
+  SQL error: Column 'mobile' cannot be null.
+
+Developer Details:
+  SQL error: INSERT INTO message (sender, title, email, mobile, msggroup, text, date, `read`, ip, portalid, `status`) values (null, null, 'eric@talkwithcustomer.com', null, 6, 'Hello,
+
+You have a website, right? 
+  
+Of course you do. I found mmcorg.ir today.
+
+It gets traffic every day – that you’re probably spending $2 / $4 / $10 or more a click to get.  Not including all of the work you put into creating social media, videos, blog posts, emails, and so on.
+
+So you’re investing seriously in getting people to that site.
+
+But how’s it working?  Great? Okay?  Not so much?
+
+If that answer could be better, then it’s likely you’re putting a lot of time, effort, and money into an approach that’s not paying off like it should.
+
+Now… imagine doubling your lead conversion in just minutes… In fact, I’ll go even better.
+ 
+You could actually get up to 100X more conversions!
+
+I’m not making this up.  As Chris Smith, best-selling author of The Conversion Code says:
+-Speed is essential - there is a 100x decrease in Leads when a Lead is contacted within 14 minutes vs being contacted within 5 minutes.
+
+He’s backed up by a study at MIT that found the odds of contacting a lead will increase by 100 times if attempted in 5 minutes or less.
+
+Again, out of the 100s of visitors to your website, how many actually call to become clients?
+
+Well, you can significantly increase the number of calls you get – with ZERO extra effort.
+
+Our software, Talk With Customer, makes it easy, simple, and fast – in fact, you can start getting more calls today… and at absolutely no charge to you.
+
+CLICK HERE http://www.talkwithcustomer.com to find out how.
+
+Sincerely,
+
+Eric Jones
+
+PS: Don’t just take my word for it, TalkWithCustomer works:
+-EMA has been looking for ways to reach out to an audience. TalkWithCustomer so far is the most direct call of action. It has produced above average closing ratios and we are thrilled. Thank you for providing a real and effective tool to generate REAL leads. - Patrick MontesDeOca, Ema2Trade
+
+Best of all, act now to get a no-cost 14-Day Test Drive – our gift to you just for giving TalkWithCustomer a try. 
+
+CLICK HERE http://www.talkwithcustomer.com to start converting up to 100X more leads today!
+
+
+If you''d like to unsubscribe click here. http://liveserveronline.com/talkwithcustomer.aspx?d=mmcorg.ir
+', '1397/12/15', '0', '185.225.136.28', '0', '0'). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===
+=== BEGIN MESSAGE ===
+Client IP:
+  185.225.136.28
+
+Host:
+  mmcorg.ir
+
+Requested URI:
+  http://mmcorg.ir/contact.php
+
+Date:
+  2019-03-06 01:17:32
+
+Error:
+  SQL error: Column 'mobile' cannot be null.
+
+Developer Details:
+  SQL error: INSERT INTO message (sender, title, email, mobile, msggroup, text, date, `read`, ip, portalid, `status`) values (null, null, 'eric@talkwithcustomer.com', null, 6, 'Hello,
+
+You have a website, right? 
+  
+Of course you do. I found mmcorg.ir today.
+
+It gets traffic every day – that you’re probably spending $2 / $4 / $10 or more a click to get.  Not including all of the work you put into creating social media, videos, blog posts, emails, and so on.
+
+So you’re investing seriously in getting people to that site.
+
+But how’s it working?  Great? Okay?  Not so much?
+
+If that answer could be better, then it’s likely you’re putting a lot of time, effort, and money into an approach that’s not paying off like it should.
+
+Now… imagine doubling your lead conversion in just minutes… In fact, I’ll go even better.
+ 
+You could actually get up to 100X more conversions!
+
+I’m not making this up.  As Chris Smith, best-selling author of The Conversion Code says:
+-Speed is essential - there is a 100x decrease in Leads when a Lead is contacted within 14 minutes vs being contacted within 5 minutes.
+
+He’s backed up by a study at MIT that found the odds of contacting a lead will increase by 100 times if attempted in 5 minutes or less.
+
+Again, out of the 100s of visitors to your website, how many actually call to become clients?
+
+Well, you can significantly increase the number of calls you get – with ZERO extra effort.
+
+Our software, Talk With Customer, makes it easy, simple, and fast – in fact, you can start getting more calls today… and at absolutely no charge to you.
+
+CLICK HERE http://www.talkwithcustomer.com to find out how.
+
+Sincerely,
+
+Eric Jones
+
+PS: Don’t just take my word for it, TalkWithCustomer works:
+-EMA has been looking for ways to reach out to an audience. TalkWithCustomer so far is the most direct call of action. It has produced above average closing ratios and we are thrilled. Thank you for providing a real and effective tool to generate REAL leads. - Patrick MontesDeOca, Ema2Trade
+
+Best of all, act now to get a no-cost 14-Day Test Drive – our gift to you just for giving TalkWithCustomer a try. 
+
+CLICK HERE http://www.talkwithcustomer.com to start converting up to 100X more leads today!
+
+
+If you''d like to unsubscribe click here. http://liveserveronline.com/talkwithcustomer.aspx?d=mmcorg.ir
+', '1397/12/15', '0', '185.225.136.28', '0', '0'). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===

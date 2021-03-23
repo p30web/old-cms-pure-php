@@ -1,0 +1,16 @@
+[13-Mar-2020 07:58:40 UTC] PHP Fatal error:  Class 'PEAR' not found in /home/irandogebank/public_html/user/includes/common/lib/email/Pear/Net/Socket.php on line 35
+[13-Mar-2020 07:58:40 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/user/includes/common/lib/email/Pear/Net/SMTP.php on line 127
+[13-Mar-2020 07:58:44 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/user/includes/common/lib/email/Pear/Net/SMTP.php on line 127
+[13-Mar-2020 07:58:44 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/user/includes/common/lib/email/Pear/Net/SMTP.php on line 127
+[13-Mar-2020 07:58:44 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/user/includes/common/lib/email/Pear/Net/SMTP.php on line 127
+[13-Mar-2020 07:58:44 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/user/includes/common/lib/email/Pear/Net/SMTP.php on line 127
+[13-Mar-2020 07:58:45 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/user/includes/common/lib/email/Pear/Net/SMTP.php on line 127
+[13-Mar-2020 07:58:56 UTC] PHP Fatal error:  Class 'PEAR' not found in /home/irandogebank/public_html/user/includes/common/lib/email/Pear/Net/Socket.php on line 35
+[13-Mar-2020 07:58:56 UTC] PHP Fatal error:  Class 'PEAR' not found in /home/irandogebank/public_html/user/includes/common/lib/email/Pear/Net/Socket.php on line 35
+[13-Mar-2020 07:58:56 UTC] PHP Fatal error:  Class 'PEAR' not found in /home/irandogebank/public_html/user/includes/common/lib/email/Pear/Net/Socket.php on line 35
+[13-Mar-2020 07:58:56 UTC] PHP Fatal error:  Class 'PEAR' not found in /home/irandogebank/public_html/user/includes/common/lib/email/Pear/Net/Socket.php on line 35
+[13-Mar-2020 07:58:56 UTC] PHP Fatal error:  Class 'PEAR' not found in /home/irandogebank/public_html/user/includes/common/lib/email/Pear/Net/Socket.php on line 35
+[29-Mar-2020 13:40:41 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/user/includes/common/lib/email/Pear/Net/SMTP.php on line 127
+[29-Mar-2020 13:40:41 UTC] PHP Deprecated:  Assigning the return value of new by reference is deprecated in /home/irandogebank/public_html/user/includes/common/lib/email/Pear/Net/SMTP.php on line 127
+[29-Mar-2020 13:40:57 UTC] PHP Fatal error:  Class 'PEAR' not found in /home/irandogebank/public_html/user/includes/common/lib/email/Pear/Net/Socket.php on line 35
+[29-Mar-2020 13:41:12 UTC] PHP Fatal error:  Class 'PEAR' not found in /home/irandogebank/public_html/user/includes/common/lib/email/Pear/Net/Socket.php on line 35

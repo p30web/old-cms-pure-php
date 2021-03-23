@@ -1,0 +1,32 @@
+[24-Dec-2019 07:05:20 UTC] PHP Fatal error:  Call to undefined function activity_log() in /home/irandogebank/public_html/api/contact.php on line 79
+[24-Dec-2019 07:05:50 UTC] PHP Fatal error:  Call to undefined function activity_log() in /home/irandogebank/public_html/api/contact.php on line 79
+[11-Jan-2020 12:58:46 UTC] PHP Fatal error:  Call to undefined function mb_strlen() in /home/irandogebank/public_html/api/contact.php on line 11
+[11-Jan-2020 13:00:16 UTC] PHP Fatal error:  Call to undefined function mb_strlen() in /home/irandogebank/public_html/api/contact.php on line 11
+[11-Jan-2020 13:01:15 UTC] PHP Fatal error:  Call to undefined function mb_strlen() in /home/irandogebank/public_html/api/contact.php on line 16
+[11-Jan-2020 13:03:03 UTC] PHP Fatal error:  Call to undefined function is_farsi() in /home/irandogebank/public_html/api/contact.php on line 49
+[13-Mar-2020 07:44:58 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Wrong operation' in /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php:1708
+Stack trace:
+#0 /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php(1761): MysqliDb->_buildDataPairs(Array, Array, 1)
+#1 /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php(1484): MysqliDb->_buildInsertQuery(Array)
+#2 /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php(1446): MysqliDb->_buildQuery(NULL, Array)
+#3 /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php(752): MysqliDb->_buildInsert('newsletter', Array, 'INSERT')
+#4 /home/irandogebank/public_html/api/newsletter.php(39): MysqliDb->insert('newsletter', Array)
+#5 {main}
+  thrown in /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php on line 1708
+[13-Mar-2020 07:45:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@email.tst, ?, ?, ?)' at line 1 query: INSERT  INTO newsletter (`email`, `status`, `created_at`, `portalid`)  VALUES (emailsample@email.tst, ?, ?, ?)' in /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php:1913
+Stack trace:
+#0 /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php(1506): MysqliDb->_prepareQuery()
+#1 /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php(1446): MysqliDb->_buildQuery(NULL, Array)
+#2 /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php(752): MysqliDb->_buildInsert('newsletter', Array, 'INSERT')
+#3 /home/irandogebank/public_html/api/newsletter.php(39): MysqliDb->insert('newsletter', Array)
+#4 {main}
+  thrown in /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php on line 1913
+[13-Mar-2020 07:45:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'Wrong operation' in /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php:1708
+Stack trace:
+#0 /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php(1761): MysqliDb->_buildDataPairs(Array, Array, 1)
+#1 /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php(1484): MysqliDb->_buildInsertQuery(Array)
+#2 /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php(1446): MysqliDb->_buildQuery(NULL, Array)
+#3 /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php(752): MysqliDb->_buildInsert('newsletter', Array, 'INSERT')
+#4 /home/irandogebank/public_html/api/newsletter.php(39): MysqliDb->insert('newsletter', Array)
+#5 {main}
+  thrown in /home/irandogebank/public_html/includes/class/MysqlDB/MysqliDb.php on line 1708

@@ -1,0 +1,4 @@
+[23-Mar-2020 20:28:58 UTC] PHP Fatal error:  Class 'MysqliDb' not found in /home/irandogebank/public_html/Connections/cn2.php on line 3
+[23-Mar-2020 20:28:58 UTC] PHP Fatal error:  Class 'MysqliDb' not found in /home/irandogebank/public_html/Connections/cn3.php on line 2
+[26-Mar-2020 11:09:04 UTC] PHP Fatal error:  Class 'MysqliDb' not found in /home/irandogebank/public_html/Connections/cn2.php on line 3
+[26-Mar-2020 11:09:04 UTC] PHP Fatal error:  Class 'MysqliDb' not found in /home/irandogebank/public_html/Connections/cn3.php on line 2

@@ -1,0 +1,30 @@
+[23-Mar-2020 19:29:00 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soap_fault.php on line 14
+[23-Mar-2020 19:29:00 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soap_parser.php on line 15
+[23-Mar-2020 19:29:01 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soap_server.php on line 16
+[23-Mar-2020 19:29:02 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soap_transport_http.php on line 15
+[23-Mar-2020 19:29:02 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soap_val.php on line 17
+[23-Mar-2020 19:29:03 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soapclient.php on line 26
+[23-Mar-2020 19:29:03 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.wsdl.php on line 15
+[23-Mar-2020 19:29:04 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.xmlschema.php on line 15
+[23-Mar-2020 19:29:05 UTC] PHP Warning:  require_once(Mail/mimeDecode.php): failed to open stream: No such file or directory in /home/irandogebank/public_html/includes/nextpay/include/nusoap/nusoapmime.php on line 42
+[23-Mar-2020 19:29:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail/mimeDecode.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/irandogebank/public_html/includes/nextpay/include/nusoap/nusoapmime.php on line 42
+[29-Mar-2020 13:38:47 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soap_fault.php on line 14
+[29-Mar-2020 13:38:48 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soap_parser.php on line 15
+[29-Mar-2020 13:38:59 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soap_fault.php on line 14
+[29-Mar-2020 13:38:59 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soap_parser.php on line 15
+[29-Mar-2020 13:39:41 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soap_server.php on line 16
+[29-Mar-2020 13:39:44 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soap_transport_http.php on line 15
+[29-Mar-2020 13:39:49 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soap_val.php on line 17
+[29-Mar-2020 13:39:51 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soapclient.php on line 26
+[29-Mar-2020 13:39:54 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soap_server.php on line 16
+[29-Mar-2020 13:39:56 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.wsdl.php on line 15
+[29-Mar-2020 13:39:59 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soap_transport_http.php on line 15
+[29-Mar-2020 13:40:00 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.xmlschema.php on line 15
+[29-Mar-2020 13:40:05 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soap_val.php on line 17
+[29-Mar-2020 13:40:06 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.soapclient.php on line 26
+[29-Mar-2020 13:40:10 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.wsdl.php on line 15
+[29-Mar-2020 13:40:14 UTC] PHP Fatal error:  Class 'nusoap_base' not found in /home/irandogebank/public_html/includes/nextpay/include/nusoap/class.xmlschema.php on line 15
+[29-Mar-2020 13:40:29 UTC] PHP Warning:  require_once(Mail/mimeDecode.php): failed to open stream: No such file or directory in /home/irandogebank/public_html/includes/nextpay/include/nusoap/nusoapmime.php on line 42
+[29-Mar-2020 13:40:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail/mimeDecode.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/irandogebank/public_html/includes/nextpay/include/nusoap/nusoapmime.php on line 42
+[29-Mar-2020 13:40:41 UTC] PHP Warning:  require_once(Mail/mimeDecode.php): failed to open stream: No such file or directory in /home/irandogebank/public_html/includes/nextpay/include/nusoap/nusoapmime.php on line 42
+[29-Mar-2020 13:40:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'Mail/mimeDecode.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/irandogebank/public_html/includes/nextpay/include/nusoap/nusoapmime.php on line 42

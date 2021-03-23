@@ -1,0 +1,204 @@
+=== BEGIN MESSAGE ===
+Client IP:
+  ::1
+
+Host:
+  localhost
+
+Requested URI:
+  http://localhost/samen/contact.php
+
+Date:
+  2017-02-21 09:51:39
+
+Error:
+  SQL error: Data too long for column 'time' at row 1.
+
+Developer Details:
+  SQL error: INSERT INTO `comment` (sender, title, email, text, date, time, `read`, ip, weblogcode) values ('تست', 'عنوان', 'test@test.com', 'متن', '1395/12/03', '09:50:02 am', '0', '::1', '0'). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===
+=== BEGIN MESSAGE ===
+Client IP:
+  ::1
+
+Host:
+  localhost
+
+Requested URI:
+  http://localhost/samen/contact.php
+
+Date:
+  2017-02-21 09:57:18
+
+Error:
+  SQL error: Field 'time' doesn't have a default value.
+
+Developer Details:
+  SQL error: INSERT INTO `comment` (sender, title, email, text, date, `read`, ip, weblogcode) values ('تست', 'عنوان', 'test@test.com', 'متن', '1395/12/03', '0', '::1', '0'). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===
+=== BEGIN MESSAGE ===
+Client IP:
+  ::1
+
+Host:
+  localhost
+
+Requested URI:
+  http://localhost/samen/contact.php
+
+Date:
+  2017-02-21 10:00:17
+
+Error:
+  SQL error: Data too long for column 'time' at row 1.
+
+Developer Details:
+  SQL error: INSERT INTO `comment` (sender, title, email, text, date, time, `read`, ip, weblogcode) values ('تست', 'عنوان', 'test@test.com', 'متن', '1395/12/03', '09:59:58 am', '0', '::1', '0'). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===
+=== BEGIN MESSAGE ===
+Client IP:
+  ::1
+
+Host:
+  localhost
+
+Requested URI:
+  http://localhost/samen/contact.php
+
+Date:
+  2017-02-21 10:04:20
+
+Error:
+  SQL error: Field 'active' doesn't have a default value.
+
+Developer Details:
+  SQL error: INSERT INTO `comment` (sender, title, email, text, date, time, `read`, ip, weblogcode) values ('sdfsdf', 'sdfsdf', 'test@test.com', 'sdfsdf', '1395/12/03', '10:04:20', '0', '::1', '0'). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===
+=== BEGIN MESSAGE ===
+Client IP:
+  ::1
+
+Host:
+  localhost
+
+Requested URI:
+  http://localhost/faghihi/news_view.php?id=28&title=%D8%B7%D8%B1%D8%AD%20%D8%AA%D8%B5%D9%81%DB%8C%D9%87%20%D8%AE%D8%A7%D9%86%D9%87%20%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8%20%D9%85%DB%8C%D8%A7%D9%86%D9%87
+
+Date:
+  2017-02-25 10:24:31
+
+Error:
+  SQL error: Column 'title' cannot be null.
+
+Developer Details:
+  SQL error: INSERT INTO newscomment (title, news_id, name, email, matn, date, ip, `read`, active) values (null, 28, 'تست', 'test@test.com', 'ffff', '1395/12/07', '0', '0', '1'). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===
+=== BEGIN MESSAGE ===
+Client IP:
+  ::1
+
+Host:
+  localhost
+
+Requested URI:
+  http://localhost/faghihi/news_view.php?id=28&title=%D8%B7%D8%B1%D8%AD%20%D8%AA%D8%B5%D9%81%DB%8C%D9%87%20%D8%AE%D8%A7%D9%86%D9%87%20%D9%81%D8%A7%D8%B6%D9%84%D8%A7%D8%A8%20%D9%85%DB%8C%D8%A7%D9%86%D9%87
+
+Date:
+  2017-02-25 10:26:34
+
+Error:
+  SQL error: Column 'title' cannot be null.
+
+Developer Details:
+  SQL error: INSERT INTO newscomment (title, news_id, name, email, matn, date, ip, `read`, active) values (null, 28, 'تست', 'test@test.com', 'fff', '1395/12/07', '0', '0', '1'). (SQL_ERROR)
+
+tNG Execution Trace:
+  tNG_insert.executeTransaction
+    STARTER.Trigger_Default_Starter
+    tNG_insert.doTransaction
+      BEFORE.CheckCaptcha
+      BEFORE.Trigger_Default_FormValidation
+      tNG_insert.prepareSQL
+      tNG_insert.executeTransaction - execute sql*
+      ERROR.Trigger_Default_Insert_RollBack
+  tNG_insert.getRecordset
+  tNG_insert.getFakeRsArr
+  tNG_insert.getLocalRecordset
+  tNG_insert.getFakeRecordset
+  tNG_insert.getFakeRecordset
+=== END MESSAGE ===
